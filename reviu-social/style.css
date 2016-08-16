@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'reviu-social';
+  src:  url('fonts/reviu-social.eot?3wioyq');
+  src:  url('fonts/reviu-social.eot?3wioyq#iefix') format('embedded-opentype'),
+    url('fonts/reviu-social.ttf?3wioyq') format('truetype'),
+    url('fonts/reviu-social.woff?3wioyq') format('woff'),
+    url('fonts/reviu-social.svg?3wioyq#reviu-social') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="reviu-"], [class*=" reviu-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'reviu-social' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.reviu-facebook:before {
+  content: "\ea90";
+}
+.reviu-facebook2:before {
+  content: "\ea91";
+}
+.reviu-instagram:before {
+  content: "\ea92";
+}
+.reviu-whatsapp:before {
+  content: "\ea93";
+}
+.reviu-spotify:before {
+  content: "\ea94";
+}
+.reviu-telegram:before {
+  content: "\ea95";
+}
+.reviu-twitter:before {
+  content: "\ea96";
+}
+.reviu-youtube:before {
+  content: "\ea9d";
+}
+.reviu-youtube2:before {
+  content: "\ea9e";
+}
+.reviu-twitch:before {
+  content: "\ea9f";
+}
+
