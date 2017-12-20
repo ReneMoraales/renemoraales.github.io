@@ -1,0 +1,23 @@
+{
+  "name": "doritos",
+  "authors": [
+    "René A. Morales <rene.morales.sanchez@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "howler.js": "howler#^2.0.7",
+    "lodash": "^4.17.4",
+    "animejs": "^2.2.0",
+    "chance": "^1.0.12"
+  }
+}
